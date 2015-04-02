@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/DamonOehlman/webshopper/issues"
   },
-  "homepage": "https://github.com/DamonOehlman/webshopper"
+  "homepage": "https://github.com/DamonOehlman/webshopper",
+  "dependencies": {
+    "injectcode": "^1.1.1",
+    "kgo": "^2.0.0",
+    "out": "^0.5.4",
+    "routes": "^2.0.0"
+  }
 }
