@@ -36,6 +36,7 @@ module.exports = function(opts) {
   (opts || {})
   ('load-exercises', ['exercises'], require('./lib/load-exercises'))
   ('create-routes', ['load-exercises'], require('./lib/create-routes')(router))
+  .on('error', out.error);
   
   
   return server;
