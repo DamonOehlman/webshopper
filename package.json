@@ -1,0 +1,24 @@
+{
+  "name": "webshopper",
+  "version": "1.0.0",
+  "description": "Nodeschool workshoppers for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/webshopper.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "workshopper",
+    "learnyounode"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/webshopper/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/webshopper"
+}
