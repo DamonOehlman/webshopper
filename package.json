@@ -26,7 +26,7 @@
   "dependencies": {
     "injectcode": "^1.1.1",
     "kgo": "^2.0.0",
-    "marked": "^0.3.3",
+    "markdown-it": "^4.1.0",
     "marked-ast": "^0.2.0",
     "out": "^0.5.4",
     "reu": "^1.0.0",
