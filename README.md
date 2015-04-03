@@ -5,7 +5,7 @@ __IN PROGRESS__
 
 [![NPM](https://nodei.co/npm/webshopper.png)](https://nodei.co/npm/webshopper/)
 
-[![bitHound Score](https://www.bithound.io/github/DamonOehlman/webshopper/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/webshopper) 
+[![experimental](https://img.shields.io/badge/stability-experimental-red.svg)](https://github.com/dominictarr/stability#experimental) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/webshopper/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/webshopper) 
 
 ## Alternative Implementations
 
