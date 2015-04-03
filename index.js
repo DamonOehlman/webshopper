@@ -5,6 +5,22 @@ var kgo = require('kgo');
 var out = require('out');
 var Router = require('routes');
 
+/**
+  # webshopper
+  
+  __IN PROGRESS__
+  
+  ## Alternative Implementations
+  
+  The following is a list of alternative browser based workshoppers that are
+  worth having a look at before you dive with anything here:
+  
+  - https://github.com/hughsk/workshop-app-shell
+  - https://github.com/lakenen/browser-workshopper
+  - https://github.com/Jam3/browser-lessons
+  
+**/
+
 module.exports = function(opts) {
   var router = new Router();
   var server = http.createServer(handleRequest);
